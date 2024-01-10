@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Assn-1 Todo Page</title>
+</head>
+<body>
+  <h1>T0-d0 </h1>
+  <ul id="todo-list">
+   
+  </ul>
+  <script>
+    
+    const todoList = document.getElementById("todo-list");
+    const tasks = [];
+
+   
+    tasks.push({ text: "Test1", done: false });
+    tasks.push({ text: "Welcome2", done: false });
+    tasks.push({ text: "Rudradev3", done: true });
+
+    function display() {
+      
+        todoList.innerHTML = ""; //clears the array before displaying 
+
+      for (let i = 0; i < tasks.length; i++) {
+        
+        const task = tasks[i];
+
+        const li = document.createElement("li");
+
+        const checkbox = document.createElement("input");
+        checkbox.type = "checkbox";
+        checkbox.checked = task.done;
+
+        checkbox.addEventListener("change", function () {
+          task.done = checkbox.checked;
+          display();
+        });
+
+        
+        const input = document.createElement("input");
+        input.type = "text";
+        input.value = task.text;
+
+    
+        input.addEventListener("input", function () {
+          task.text = input.value;
+        });
+
+       
+        const button = document.createElement("button");
+        button.textContent = "Delete";
+
+        
+        button.addEventListener("click", function () {
+          tasks.splice(i, 1);
+          display();
+        });
+
+    
+        li.appendChild(checkbox);
+        li.appendChild(input);
+        li.appendChild(button);
+        todoList.appendChild(li);
+      }
+
+      const newTask = { text: "", done: false };
+      const li = document.createElement("li");
+
+    
+      const input = document.createElement("input");
+      input.type = "text";
+      input.placeholder = "eNter a new task...";
+
+      input.addEventListener("input", function () {
+        newTask.text = input.value;
+      });
+
+      const button = document.createElement("button");
+      button.textContent = "Add";
+
+
+      button.addEventListener("click", function () {
+        tasks.push(newTask);
+        display();
+      });
+
+      li.appendChild(input);
+      li.appendChild(button);
+      todoList.appendChild(li);
+    }
+    display();
+  </script>
+</body>
+</html>
