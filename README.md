@@ -6,8 +6,8 @@
 
 
 ## 📖 Table of Contents
-- [📍 Assn 1](https://github.com/RudradevArya/LinuxShenanigans-WhatsApp-Desktop#but-why)
-- [📦  Assn 2](https://github.com/RudradevArya/LinuxShenanigans-WhatsApp-Desktop#just-use-whatsapp-web-right)
+- [📍 Assn 1](https://github.com/RudradevArya/Adv-WebTech-Lab-Assn#assn-1)
+- [📦  Assn 2](https://github.com/RudradevArya/Adv-WebTech-Lab-Assn#assn-2)
 - [📂  Assn 3](https://github.com/RudradevArya/LinuxShenanigans-WhatsApp-Desktop#note)
 - [🚀  Assn 4](https://github.com/RudradevArya/LinuxShenanigans-WhatsApp-Desktop#-config-steps)
 - [🛣  Assn 5](https://github.com/RudradevArya/LinuxShenanigans-WhatsApp-Desktop#--project-tasklist)
@@ -30,7 +30,10 @@
 ---
 
 ### OUTPUT
-![Assn 1 output SS](https://github.com/RudradevArya/Adv-WebTech-Lab-Assn/blob/[branch]/image.jpg?raw=true)
+![Assn 1 output SS](https://github.com/RudradevArya/Adv-WebTech-Lab-Assn/blob/main/1_todo/output.png?raw=true)
+
+--- 
+
 ## Assn 2
 #### PS : Design a responsive navigation bar that changes its appearance and behaviour based on the user's scroll position. Implement animations, such as sliding or fading, as the user scrolls up or down the webpage.
 
@@ -46,8 +49,15 @@
 ---
 
 ### OUTPUT
-![Assn 2 output SS](https://github.com/RudradevArya/Adv-WebTech-Lab-Assn/blob/[branch]/image.jpg?raw=true)
+![Assn 2 output SS INfo page](https://github.com/RudradevArya/Adv-WebTech-Lab-Assn/blob/main/2_navbar/info.png?raw=true)
+![Assn 2 output SS Home page](https://github.com/RudradevArya/Adv-WebTech-Lab-Assn/blob/main/2_navbar/home%2Bshrinking_navbar.png?raw=true)
+![Assn 2 output SS About page](https://github.com/RudradevArya/Adv-WebTech-Lab-Assn/blob/main/2_navbar/about.png?raw=true)
+![Assn 2 output SS Contact page](https://github.com/RudradevArya/Adv-WebTech-Lab-Assn/blob/main/2_navbar/contact.png?raw=true)
+
 
 ### Sources 
 - [responsive navbar](https://www.aleksandrhovhannisyan.com/blog/responsive-navbar-tutorial/)
 - [Shrink & scrolll navbar](https://www.w3schools.com/howto/howto_js_navbar_shrink_scroll.asp)
+- [CSS animation](https://alvarotrigo.com/blog/css-animations-scroll/)
+
+---
