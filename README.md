@@ -1,5 +1,5 @@
 
-<div align="center"> <h1 align="center"> <img src="https://static.vecteezy.com/system/resources/previews/013/782/793/non_2x web-3-0-advanced-internet-technology-icon-suitable-for-applications-or-web-pages-vector.jpg" width="100" /> <br>Adv - Web Tech Lab (AWTL)</h1> <h3>◦ Building up on basics of HTML,CSS,JS,PHP and more</h3><p align="center"></p><img src="https://img.shields.io/github/languages/top/RudradevArya/Adv-WebTech-Lab-Assn" alt="Shell Script" /> </div>
+<div align="center"> <h1 align="center"> <img src="[https://static.vecteezy.com/system/resources/previews/013/782/793/non_2x web-3-0-advanced-internet-technology-icon-suitable-for-applications-or-web-pages-vector.jpg](https://freesvg.org/img/programming-coding.png)" width="100" /> <br>Adv - Web Tech Lab (AWTL)</h1> <h3>◦ Building up on basics of HTML,CSS,JS,PHP and more</h3><p align="center"></p><img src="https://img.shields.io/github/languages/top/RudradevArya/Adv-WebTech-Lab-Assn" alt="Shell Script" /> </div>
 
 <!-- <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" /> -->
 
