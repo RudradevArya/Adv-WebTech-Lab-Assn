@@ -90,6 +90,8 @@
 
 ![Assn 3 output SS](https://github.com/RudradevArya/Adv-WebTech-Lab-Assn/blob/main/3_dragndrop/output.png?raw=true)
 
+![Assn 3 add button SS](https://github.com/RudradevArya/Adv-WebTech-Lab-Assn/blob/main/3_dragndrop/add.png?raw=true)
+
 ### Sources
 
 * [using Dragula Tut](https://www.codewithfaraz.com/content/249/create-a-drag-and-drop-to-do-list-tutorial-source-code)
