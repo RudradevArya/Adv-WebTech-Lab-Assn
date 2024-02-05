@@ -90,7 +90,27 @@
 
 * [using Dragula Tut](https://www.codewithfaraz.com/content/249/create-a-drag-and-drop-to-do-list-tutorial-source-code)
 * [using React Tut](https://dev.to/nasif2ahmed/drag-and-drop-kanban-board-from-scratch-with-react-1j9a)
+
+
 - - -
+
+## Assn 4
+
+#### PS : Develop a web application in PHP using various concepts of object-oriented programming like Class, Object, Inheritance, Function, Overloading, Constructor, and Destructor
+
+### 🛣 Assn 4 TaskList
+
+> * [x] `Making classes and objects`
+> * [x] `make constructor & destructor`
+> * [x] `method overloading`
+
+- - -
+
+### OUTPUT
+
+![Assn 4 output SS](https://github.com/RudradevArya/Adv-WebTech-Lab-Assn/blob/main/4_phpOOP/output.png?raw=true)
+
+
 
 <br>
 <br>
